@@ -10,6 +10,8 @@ Repositório destinado ao Projeto Integrador de Competências do curso de Engenh
 
 ## PIC I
 
+As duas atividades a seguir foram desenvolvidades utilizando o VisualG versão 3.0.7.
+***
 __Atividade 1 - Projeto Integrador de Competências__
 
 Um e-commerce de livros está fazendo uma promoção para pagamento à vista, no boleto, em que é aplicado pelo sistema, um entre os três critérios de desconto:
