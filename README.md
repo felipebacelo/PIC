@@ -12,7 +12,7 @@ Repositório destinado ao Projeto Integrador de Competências do curso de Engenh
 
 As atividades a seguir foram desenvolvidades utilizando o VisualG versão 3.0.7.
 ***
-__Atividade 1 - Projeto Integrador de Competências I__
+__Projeto Integrador de Competências I__
 
 Um e-commerce de livros está fazendo uma promoção para pagamento à vista, no boleto, em que é aplicado pelo sistema, um entre os três critérios de desconto:
 
@@ -22,7 +22,7 @@ Um e-commerce de livros está fazendo uma promoção para pagamento à vista, no
 
 Escreva um algoritmo em VisualG em que o usuário informe a quantidade de livros que deseja comprar, e o algoritmo informa qual é a melhor opção de desconto.
 ***
-__Atividade 2 - Projeto Integrador de Competências I__
+__Projeto Integrador de Competências I__
 
 A prefeitura de uma cidade desenvolveu um programa para cadastro dos moradores, e cada morador (não é especificada a quantidade) deve informar a sua idade. A prefeitura quer obter no final do cadastro a quantidade de moradores que são eleitores obrigatórios, a quantidade de moradores que são eleitores facultativos e quantos moradores não são eleitores, de acordo com os dados a seguir:
 
@@ -36,7 +36,7 @@ Assim, faça um algoritmo em VisualG que receba a idade de cada morador (não é
 ## PIC II
 As atividades a seguir foram desenvolvidades utilizando o Visual Paradigm versão 16.1.
 ***
-__Atividade 1 - Projeto Integrador de Competências II__
+__Projeto Integrador de Competências II__
 
 Como profissional de sistemas de informação, muitas vezes você será requisitado (a) para dar sua opinião técnica sobre qual o melhor processo de software para a construção de uma solução, baseando-se inicialmente nas especificações de requisitos principais e no que os usuários do novo sistema esperam dele. A partir desses pressupostos, considere que seu diretor lhe encaminhou um documento contendo os principais requisitos para um subsistema de caixa de pagamento (PDV ou, se preferir, o caixa do supermercado). Como dado importante, o pessoal sênior do escritório, que avaliou inicialmente esses requisitos, definiu por consenso que o processo de engenharia de software incremental é o mais adequado para seu desenvolvimento.
 
@@ -53,7 +53,7 @@ Segue a lista de requisitos para o PDV:
 
 A partir desses dados, elabore o diagrama de caso de uso desse sistema.
 ***
-__Atividade 2 - Projeto Integrador de Competências II__
+__Projeto Integrador de Competências II__
 
 A empresa pela qual você foi contratado (a) é realmente desafiadora e você sente que em seu trabalho você está caminhando, também está se sentindo mais confiante.
 Dessa forma, uma nova demanda chegou para você dos analistas, que estão saturados e precisam aliviar o gargalo para evitar que o projeto de software se atrase, isso numa fábrica de software pode ser um desastre. Então, resolveram falar com você, um (a) novato (a) promissor (a) que não tem medo de desafios.
