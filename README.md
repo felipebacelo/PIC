@@ -10,7 +10,7 @@ Repositório destinado ao Projeto Integrador de Competências do curso de Engenh
 
 ## PIC I
 
-As atividades a seguir foram desenvolvidades utilizando o VisualG versão 3.0.7.
+As atividades a seguir foram desenvolvidas utilizando o VisualG versão 3.0.7.
 ***
 __Projeto Integrador de Competências I__
 
@@ -34,7 +34,7 @@ Assim, faça um algoritmo em VisualG que receba a idade de cada morador (não é
 ***
 
 ## PIC II
-As atividades a seguir foram desenvolvidades utilizando o Visual Paradigm versão 16.1.
+As atividades a seguir foram desenvolvidas utilizando o Visual Paradigm versão 16.1.
 ***
 __Projeto Integrador de Competências II__
 
@@ -71,7 +71,20 @@ A partir desses dados, elabore o diagrama de sequência desse sistema.
 ***
 
 ## PIC III
-A atividade a seguir foi desenvolvida utilizando o Visual Paradigm versão 16.1.
+As atividades a seguir foram desenvolvidas utilizando o Visual Paradigm versão 16.1.
+***
+__Projeto Integrador de Competências III__
+
+Um analista de negócios pediu sua ajuda para desenvolver um diagrama BPMN referentes a alguns casos de uso iniciais para o desenvolvimento de um comércio eletrônico para uma pizzaria delivery.
+
+Ele te passou uma lista de casos de uso e que são os seguintes:
+
+* Atribuições do cliente: escolher a pizza, encomendar a pizza, realizar pagamento, receber a pizza, comer a pizza.
+* Atribuições do atendente: receber o pedido, acalmar o cliente.
+* Atribuições do pizzaiolo: preparar a pizza.
+* Atribuições do entregador: entregar a pizza, receber o pagamento.
+
+Pede-se, a partir desses dados, que você desenvolva um diagrama BPMN utilizando (piscina, raias para cada ator, identificadores de início e fim de processo, eventos intermediários, trocas de mensagens entre os atores, gateways entre outros) para essa lista de tarefas feitas pelos atores nesse processo.
 ***
 __Projeto Integrador de Competências III__
 
@@ -84,11 +97,11 @@ _O atual processo de reembolso de despesas da empresa tem como objetivo ressarci
 Participam desse processo tanto o empregado, como o seu chefe imediato. Além disso, em alguns casos, pode ser necessário que o gerente participe do processo. Um sistema chamado “Sistema de Pessoas” possui todas informações do empregado. Só é possível iniciar o processo quando o empregado voltou de sua viagem. As atividades mais importantes do processo são: a elaboração do relatório, aprovação de despesas e a transferência da verba.
 O empregado elabora e envia ao seu chefe imediato um relatório de despesas. O chefe imediato identifica o empregado encaminhador do relatório e verifica se ele possui conta de despesa. Caso o empregado não possua uma conta de despesa, o chefe imediato deve criar uma nova e em seguida realizar a análise do valor da despesa. Caso ele já possua uma conta de despesa, o chefe imediato parte direto para análise de valor de despesa do relatório. Baseado nas informações da análise de valor o prosseguimento se dá de duas maneiras:_
 
-* _Valores abaixo de R$ 200,00 são aprovados automaticamente, sendo que o chefe imediato realiza a transferência da verba para a conta do empregado e o informa do atendimento da solicitação._
+* Valores abaixo de R$ 200,00 são aprovados automaticamente, sendo que o chefe imediato realiza a transferência da verba para a conta do empregado e o informa do atendimento da solicitação.
 
-* _Valores iguais ou acima de R$ 200,00 necessitam de aprovação do gerente, que analisa a solicitação e se aprovar devolve para o chefe imediato para que a verba seja transferida e o empregado informado a respeito. Se não aprovar, informa o empregado sobre o veto e a solicitação é encerrada._
+* Valores iguais ou acima de R$ 200,00 necessitam de aprovação do gerente, que analisa a solicitação e se aprovar devolve para o chefe imediato para que a verba seja transferida e o empregado informado a respeito. Se não aprovar, informa o empregado sobre o veto e a solicitação é encerrada.
 
-_Ao final de todo tratamento, o empregado toma ciência quanto ao resultado de sua solicitação._
+Ao final de todo tratamento, o empregado toma ciência quanto ao resultado de sua solicitação.
 
 A partir da descrição do processo acima, desenvolva o diagrama BPMN descrevendo graficamente esse processo de negócio.
 
