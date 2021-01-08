@@ -1,8 +1,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/felipebacelo/PIC?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/felipebacelo/PIC?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/felipebacelo/PIC?style=for-the-badge)
-![GitHub All Releases](https://img.shields.io/github/downloads/felipebacelo/PIC/total?style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/felipebacelo?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/felipebacelo/PIC?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/felipebacelo/PIC?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/felipebacelo/PIC?style=for-the-badge)
 
 # PIC
 Repositório destinado ao Projeto Integrador de Competências do curso de Engenharia de Software.
