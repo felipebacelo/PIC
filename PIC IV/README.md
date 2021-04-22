@@ -6,11 +6,11 @@
 
 ## PIC IV
 
-As atividades a seguir foram desenvolvidas utilizando o Trello.
+A atividade a seguir foi desenvolvida utilizando o Trello.
 
 ***
 
-__Atividade I__
+__Projeto Integrador de Competências IV__
 
 Muitas vezes, quando estamos trabalhando calmos e tranquilos em nosso ”canto”, somos, de repente chamados para participar de um time de projetos. A vida de trabalho com engenharia de software é muito dinâmica e certamente tocamos alguns projetos de software concorrentes. Ou seja, você vai “cair de paraquedas” numa reunião de definição de projeto de software. Durante a reunião, alguém teve a brilhante ideia de organizar tudo utilizando o Trello. Você foi o escolhido para iniciar o Trello com as sprints e os artefatos inerentes ao planejamento do projeto.
 Observe o material de trabalho para criar 10 sprints colocando os cartões no Trello para as seguintes atividades de engenharia de software e planejamento do projeto de software:
