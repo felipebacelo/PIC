@@ -20,7 +20,7 @@ Como documentos, pretendemos gerar:
 * Documento Geral do Negócio
 * Diagrama BPMN do Negócio
 * Cartões de História
-* Backlog do produto (Temas, Épicos e Histórias)
+* Backlog do Produto (Temas, Épicos e Histórias)
 * Escolha das Histórias
 * Priorização das Sprints
 * Definição de Pronto
